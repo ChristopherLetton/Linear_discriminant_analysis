@@ -1,6 +1,6 @@
-This repository contains my coursework for the MATH5743M: Statistical Learning module, part of the MSc in Precision Medicine: Genomic Data Science at the University of Leeds.
+**This repository contains my coursework for the MATH5743M: Statistical Learning module, part of the MSc in Precision Medicine: Genomic Data Science at the University of Leeds.**
 
-Topics Covered
+## Topics Covered
 Linear Discriminant Analysis (LDA)
 
 Relevance vs. Redundancy in Feature Selection
